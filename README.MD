@@ -27,7 +27,7 @@ SEE ALSO
 
 JQUERY 是个将 jQuery 的各种东西变成大写的项目。项目中包括 [Sizzle.js](HTTP://SIZZLEJS.COM/)（哦，现在是 SIZZLE.JS 了）。
 
-一个 AMPLE
+一个 SAMPLE
 ---
 
 	JQUERY('BODY').TEXT('HELL WORLD');
