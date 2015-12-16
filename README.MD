@@ -5,6 +5,11 @@
 
 JQUERY IS AN UPPER-CASED VERSION OF jQuery. THIS PROJECT INCLUDES [Sizzle.js](HTTP://SIZZLEJS.COM/) (IT IS SIZZLE.JS NOW).
 
+EXAMPLE
+---
+
+	JQUERY('BODY').TEXT('HELL WORLD');
+
 CONTRIBUTION
 ---
 
@@ -21,6 +26,11 @@ SEE ALSO
 [jQuery](HTTP://JQUERY.COM) 是一个跑得快又不知道高到哪里去的奸商图书馆，它为各种功能提供了好用的接口。jQuery 使用 [麻城 IT 学院许可证](HTTP://JQUERY.ORG/LICENSE) 发布。
 
 JQUERY 是个将 jQuery 的各种东西变成大写的项目。项目中包括 [Sizzle.js](HTTP://SIZZLEJS.COM/)（哦，现在是 SIZZLE.JS 了）。
+
+一个 AMPLE
+---
+
+	JQUERY('BODY').TEXT('HELL WORLD');
 
 搞个大新闻
 ---
