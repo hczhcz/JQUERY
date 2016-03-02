@@ -35,7 +35,7 @@ JQUERY 是个将 jQuery 的各种东西变成大写的项目。项目中包括 [
 搞个大新闻
 ---
 
-根据开源软件开发的雪碧，JQUERY 欢迎大家热情地搞大新闻。在你入坑写代码之前，请先申请并茂地朗诵 [jQuery 的基本法](HTTPS://GITHUB.COM/JQUERY/JQUERY)。
+根据开源软件开发的雪碧，JQUERY 欢迎大家热情地搞大新闻。在你入坑写代码之前，请先深情并茂地朗诵 [jQuery 的基本法](HTTPS://GITHUB.COM/JQUERY/JQUERY)。
 
 也是很重要的
 ---
